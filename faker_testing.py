@@ -3,4 +3,5 @@ import random
 fake = Factory.create('pl_PL')
 
 pesel_one = random.randint(0, 100)
-print(pesel_one)
+for i in range(2501, 2600):
+    print(i-2501)
