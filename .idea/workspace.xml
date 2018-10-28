@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65493524-c862-40f6-a10d-0502a818b68a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CVV.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Create.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drop.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Select.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_godzina.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_wygasniecia.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/email.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faker_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/faker_testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kilometry.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/klasa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/klient.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liczba_miejsc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/marki.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miasto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nazwisko.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr_bloku.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr_karty.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr_prawa_jazdy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr_przejazdu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr_rejestracyjny.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr_telefonu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oplata.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pesel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/status_platnosci.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulica.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zdjecie_link.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="65493524-c862-40f6-a10d-0502a818b68a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,24 +18,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="4" />
+          <entry key="sql" value="1" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="3" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="4" />
+          <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3448" />
+          <entry key="py" value="3619" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3448" />
+          <entry key="Python" value="3619" />
         </counts>
       </usages-collector>
     </session>
@@ -78,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
+            <state relative-caret-position="1010">
               <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
               <folding>
                 <marker date="1540761138166" expanded="true" signature="2713:2718" ph="..." />
@@ -88,14 +57,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pesel_kierowcy.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pesel.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2142" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/insert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="170">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding>
                 <marker date="1540761145794" expanded="true" signature="60:65" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/insert_karty.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -127,6 +117,7 @@
         <option value="$PROJECT_DIR$/faker_testing.py" />
         <option value="$PROJECT_DIR$/generator.py" />
         <option value="$PROJECT_DIR$/insert.py" />
+        <option value="$PROJECT_DIR$/insert_karty.py" />
       </list>
     </option>
   </component>
@@ -151,11 +142,6 @@
               <item name="DataGenerator" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataGenerator" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DataGenerator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataGenerator" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.insert">
+  <component name="RunManager" selected="Python.insert_karty">
     <configuration name="faker_testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataGenerator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,13 +225,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="insert_karty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataGenerator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insert_karty.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.generator" />
       <item itemvalue="Python.faker_testing" />
       <item itemvalue="Python.insert" />
+      <item itemvalue="Python.insert_karty" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.insert_karty" />
         <item itemvalue="Python.insert" />
         <item itemvalue="Python.generator" />
         <item itemvalue="Python.faker_testing" />
@@ -310,9 +319,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CVV.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2907" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
+        <state relative-caret-position="1010">
           <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
           <folding>
             <marker date="1540761138166" expanded="true" signature="2713:2718" ph="..." />
@@ -321,13 +335,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pesel_kierowcy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pesel.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klient.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/insert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding>
             <marker date="1540761145794" expanded="true" signature="60:65" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_karty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
         </state>
       </provider>
     </entry>
