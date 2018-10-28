@@ -1,6 +1,6 @@
 from faker import Factory
-
+import random
 fake = Factory.create('pl_PL')
 
-pesel_one = fake.credit_card_security_code(card_type=None)
+pesel_one = random.randint(0, 100)
 print(pesel_one)
