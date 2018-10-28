@@ -13,7 +13,7 @@ def create_insert_file():
     emailtable = email.readlines()
     niptable = nip.readlines()
 
-    for i in range(1000):
+    for i in range(2500):
         klient.write("insert into KLIENCI values (" + "\'" + peseltable[i].strip() + "\'" + ", "
                      + "\'" + imietable[i].strip() + "\'" + ", "
                      + "\'" + nazwiskotable[i].strip() + "\'" + ", "
